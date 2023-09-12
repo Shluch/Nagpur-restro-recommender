@@ -32,7 +32,7 @@ pytz-deprecation-shim
 referencing
 requests
 rich
-rpds-py
+
 scikit-learn
 scipy
 six
